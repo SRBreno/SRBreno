@@ -1,11 +1,8 @@
 ## Hello World!
 
-Hi! I'm Breno Santa Rosa.
+### Hi! I'm Breno Santa Rosa.
 
 I like data, and learning new things.
-
-💭 Drink water will help
-📚 Just a note Never Stop Learn
 
 <span style=" font-size: 18px; color: #ffffff;">Some things I know</span><br />
 <div style="display: inline_block">
@@ -34,7 +31,6 @@ I like data, and learning new things.
   <img align="center" alt="Icon-Breno-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Icon-Breno-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg">  
 </div>
-<br />
 <br />
 
 ##
