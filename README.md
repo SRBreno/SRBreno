@@ -32,7 +32,6 @@ I like data, and learning new things.
   <img align="center" alt="Icon-Breno-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">  
 </div>
 <br />
-<br />
 
 ##
 
